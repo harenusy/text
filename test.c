@@ -1,7 +1,12 @@
 #include<stdio.h>
 int main(){
 
-	printf("testaaa");
+	printf("121212");
+	printf("121212");
+	printf("121212");
+	printf("121212");
+
+
 	return 0;
 
 }
